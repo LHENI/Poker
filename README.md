@@ -1,0 +1,3 @@
+#Poker
+
+Csináltunk egy pokert
